@@ -1,5 +1,0 @@
-{{#user}}
-Name: Arnav
-Skills: HTML, CSS, JS, React.js, Node.js, JQuery,PHP, Express, Tailwind, Bootstrap, MySQL
-Email: arnavverma@gmail.com
-{{/user}}
